@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temalabor", "Temalabor\Temalabor.csproj", "{FFDE4DFA-C9DE-4AFB-A57C-25B8DBC1608A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFDE4DFA-C9DE-4AFB-A57C-25B8DBC1608A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDE4DFA-C9DE-4AFB-A57C-25B8DBC1608A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDE4DFA-C9DE-4AFB-A57C-25B8DBC1608A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDE4DFA-C9DE-4AFB-A57C-25B8DBC1608A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C5AEB41-254B-450F-9426-7BB70C28F036}
+	EndGlobalSection
+EndGlobal
